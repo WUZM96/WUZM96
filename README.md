@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Wu ZM.
+- 👀 I’m interested in geography.
+- 🌱 I’m currently learning MATLAB.
+- 💞️ I’m looking to collaborate on soil moisture and drought monitoring
+- 📫 How to reach me : wuzm96@126.com
